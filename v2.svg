@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.58649306"
-     inkscape:cx="234.44438"
-     inkscape:cy="393.01403"
+     inkscape:zoom="1.1729861"
+     inkscape:cx="187.98177"
+     inkscape:cy="769.40382"
      inkscape:window-width="1718"
      inkscape:window-height="1358"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g104"
+     inkscape:current-layer="layer1"
      showguides="true"><sodipodi:guide
        position="1.7545957,192.66125"
        orientation="1,0"
@@ -634,8 +634,7 @@
                y="182.68617">Capacité d'Adaptation</tspan></text></g></g></g><path
        id="rect38"
        style="fill:#342f7a;fill-opacity:1;stroke:none;stroke-width:0.812758;stroke-opacity:1"
-       d="M 0 -255.32395 L 0 -296.99996 L -69.153918 -296.99996 L -69.153918 -255.32395 A 34.576889 12.520294 0 0 1 -34.576701 -267.84463 A 34.576889 12.520294 0 0 1 0 -255.32395 z "
-       transform="scale(-1)" /><g
+       d="M 0 262.05584 L 0 297.25007 L 69.153918 297.25007 L 69.153918 262.05584 A 34.576889 12.520294 0 0 1 34.576701 274.57652 A 34.576889 12.520294 0 0 1 0 262.05584 z " /><g
        id="g62"
        transform="translate(0,6.1580533)"><path
          id="path19"
@@ -1144,7 +1143,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text112"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect112);opacity:1;fill:#342f7a;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1" /><text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect112);display:inline;opacity:1;fill:#342f7a;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';writing-mode:lr-tb;direction:ltr;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
        x="1.5132992"
@@ -1210,7 +1209,7 @@
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,-1.7598305)"
            id="text113"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect113);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect113);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="277.91797"
              y="695.01753"
              id="tspan50"> - Création de A à Z d'applications Web pour divers clients
@@ -1258,7 +1257,7 @@
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,33.32087)"
            id="text115"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect115);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect115);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="277.91797"
              y="695.01753"
              id="tspan57"> - Déployer des applications utilisant les technologies du Web
@@ -1308,7 +1307,7 @@
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,33.32087)"
            id="text119"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect119);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect119);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="277.91797"
              y="695.01753"
              id="tspan67"> - Analyser les circonstances des accidents afin d'evaluer la </tspan><tspan
